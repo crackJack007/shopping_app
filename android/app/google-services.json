@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391970564071",
+    "project_id": "shoppingapp-hackathon",
+    "storage_bucket": "shoppingapp-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391970564071:android:5315062324c5023fdf3f42",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391970564071-77nmj17cngq8hgqh4g21beqdl7sibcbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vCZp8nv2pJhFrqWjCbFoV5La_Wh944Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391970564071-77nmj17cngq8hgqh4g21beqdl7sibcbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
